@@ -1,0 +1,1 @@
+This text is written using FS module.This text is appended using {flag: 'a'}.
